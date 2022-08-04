@@ -1,6 +1,7 @@
 from fastapi import FastAPI, Request, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.encoders import jsonable_encoder
+from flask import jsonify
 import joblib
 import json
 
@@ -30,3 +31,47 @@ async def getInformation(info : Request):
 
 
     return jsonable_encoder(data)
+
+
+@app.post("/companySearch")
+async def getInformation(info : Request):
+    print(await info.body())
+    req_info = await info.json()
+
+    d = {
+
+            "Supplier Name": "Infosys",
+         
+            "Region": "APAC",
+         
+            "Country": "India",
+         
+            "Function": "IT & Infrastructure",
+         
+            "Service": "Applications Development",
+         
+            "Avg. Cost($)": "100k",
+         
+            "Rating": "90",
+         
+            "Average Delivery Time": "90",
+         
+            "Number of Escalations": "5",
+         
+            "Year": "2018",
+         
+            "Resources": "10000"
+         
+        }
+
+    return d
+
+
+
+
+@app.post("/predictionSearch")
+async def getInformation(info : Request):
+    print(await info.body())
+    req_info = await info.json()
+
+    
