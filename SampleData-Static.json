@@ -2,7 +2,7 @@
     "IT & Infrastructure": [
         {
 
-            "Supplier Name": "Infosys",
+            "SupplierName": "Infosys",
          
             "Region": "APAC",
          
@@ -12,13 +12,13 @@
          
             "Service": "Applications Development",
          
-            "Avg. Cost($)": "100k",
+            "AvgCost": "100k",
          
             "Rating": "90",
          
-            "Average Delivery Time": "90",
+            "AverageDeliveryTime": "90",
          
-            "Number of Escalations": "5",
+            "NumberofEscalations": "5",
          
             "Year": "2018",
          
@@ -27,7 +27,7 @@
         },
         {
 
-            "Supplier Name": "Infosys",
+            "SupplierName": "Infosys",
          
             "Region": "APAC",
          
@@ -37,13 +37,13 @@
          
             "Service": "Applications Development",
          
-            "Avg. Cost($)": "100k",
+            "AvgCost": "100k",
          
             "Rating": "90",
          
-            "Average Delivery Time": "90",
+            "AverageDeliveryTime": "90",
          
-            "Number of Escalations": "5",
+            "NumberofEscalations": "5",
          
             "Year": "2018",
          
@@ -52,7 +52,7 @@
         },
         {
 
-            "Supplier Name": "Infosys",
+            "SupplierName": "Infosys",
          
             "Region": "APAC",
          
@@ -62,13 +62,13 @@
          
             "Service": "Applications Development",
          
-            "Avg. Cost($)": "100k",
+            "AvgCost": "100k",
          
             "Rating": "90",
          
-            "Average Delivery Time": "90",
+            "AverageDeliveryTime": "90",
          
-            "Number of Escalations": "5",
+            "NumberofEscalations": "5",
          
             "Year": "2018",
          
@@ -79,7 +79,7 @@
     "Consulting" : [
         {
 
-            "Supplier Name": "Genpact",
+            "SupplierName": "Genpact",
          
             "Region": "North America",
          
@@ -89,13 +89,13 @@
          
             "Service": "Applications Development & Maintenance",
          
-            "Avg. Cost($)": "150k",
+            "AvgCost": "150k",
          
             "Rating": 80,
          
-            "Average Delivery Time": "180",
+            "AverageDeliveryTime": "180",
          
-            "Number of Escalations": "40",
+            "NumberofEscalations": "40",
          
             "Year": "2017",
          
@@ -104,7 +104,7 @@
         },
         {
 
-            "Supplier Name": "Genpact",
+            "SupplierName": "Genpact",
          
             "Region": "North America",
          
@@ -114,13 +114,13 @@
          
             "Service": "Applications Development & Maintenance",
          
-            "Avg. Cost($)": "150k",
+            "AvgCost": "150k",
          
             "Rating": 80,
          
-            "Average Delivery Time": "180",
+            "AverageDeliveryTime": "180",
          
-            "Number of Escalations": "40",
+            "NumberofEscalations": "40",
          
             "Year": "2017",
          
@@ -129,7 +129,7 @@
         },
         {
 
-            "Supplier Name": "Genpact",
+            "SupplierName": "Genpact",
          
             "Region": "North America",
          
@@ -139,13 +139,13 @@
          
             "Service": "Applications Development & Maintenance",
          
-            "Avg. Cost($)": "150k",
+            "AvgCost": "150k",
          
             "Rating": 80,
          
-            "Average Delivery Time": "180",
+            "AverageDeliveryTime": "180",
          
-            "Number of Escalations": "40",
+            "NumberofEscalations": "40",
          
             "Year": "2017",
          
@@ -157,7 +157,7 @@
     "HR" : [
         {
 
-            "Supplier Name": "Capgemini",
+            "SupplierName": "Capgemini",
          
             "Region": "Europe",
          
@@ -167,13 +167,13 @@
          
             "Service": "Service Desk",
          
-            "Avg. Cost($)": "100k",
+            "AvgCost": "100k",
          
             "Rating": 85,
          
-            "Average Delivery Time": "270",
+            "AverageDeliveryTime": "270",
          
-            "Number of Escalations": "150",
+            "NumberofEscalations": "150",
          
             "Year": "2016",
          
@@ -182,7 +182,7 @@
         },
         {
 
-            "Supplier Name": "Capgemini",
+            "SupplierName": "Capgemini",
          
             "Region": "Europe",
          
@@ -192,13 +192,13 @@
          
             "Service": "Service Desk",
          
-            "Avg. Cost($)": "100k",
+            "AvgCost": "100k",
          
             "Rating": 85,
          
-            "Average Delivery Time": "270",
+            "AverageDeliveryTime": "270",
          
-            "Number of Escalations": "150",
+            "NumberofEscalations": "150",
          
             "Year": "2016",
          
@@ -207,7 +207,7 @@
         },
         {
 
-            "Supplier Name": "Capgemini",
+            "SupplierName": "Capgemini",
          
             "Region": "Europe",
          
@@ -217,13 +217,13 @@
          
             "Service": "Service Desk",
          
-            "Avg. Cost($)": "100k",
+            "AvgCost": "100k",
          
             "Rating": 85,
          
-            "Average Delivery Time": "270",
+            "AverageDeliveryTime": "270",
          
-            "Number of Escalations": "150",
+            "NumberofEscalations": "150",
          
             "Year": "2016",
          
