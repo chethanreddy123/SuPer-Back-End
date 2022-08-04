@@ -38,7 +38,7 @@ async def getInformation(info : Request):
     req_info = await info.json()
 
     d = {
-        "Supplier Name": "Infosys",
+        "SupplierName": "Infosys",
          
         "Region": "APAC",
          
@@ -48,13 +48,13 @@ async def getInformation(info : Request):
          
         "Service": "Applications Development",
          
-        "Avg. Cost($)": "100k",
+        "AvgCost": "100k",
          
         "Rating": "90",
          
-        "Average Delivery Time": "90",
+        "AverageDeliveryTime": "90",
          
-        "Number of Escalations": "5",
+        "NumberofEscalations": "5",
          
         "Year": "2018",
          
